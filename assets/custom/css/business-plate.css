@@ -215,10 +215,10 @@ transition: all 0.3s ease-out;
 .nav>li>a:hover, .nav>li>a:focus {text-decoration: none;background-color: #fff;}
 .nav .open>a, .nav .open>a:hover, .nav .open>a:focus {background-color: #fff; border-color: #428bca;}
 .navbar-nav>li>a {padding-top: 6px;padding-bottom: 8px;color: #858585;}
-.navbar-nav>li.active>a, .navbar-nav>li>a:hover {color: #ff4800}
+.navbar-nav>li.active>a, .navbar-nav>li>a:hover {color: #00aac0}
 
 .navbar-nav.navbar-right:last-child {margin-right: -15px;margin-top: 34px; margin-bottom: -18px;}
-.btn-brand{background-color: #ff4800; border-color: #ff4800;color:#fff}
+.btn-brand{background-color: #00aac0; border-color: #00aac0;color:#fff}
 .btn-brand:hover, .btn-brand:focus, .btn-brand:active, .btn-brand.active, .open .dropdown-toggle.btn-brand {color: #fff; background-color: #F07341; border-color: #F07341;}
 
 .serviceBlock{ padding:38px 0; margin:18px 0}
@@ -236,7 +236,7 @@ text-align: center;
 transition: all 0.3s ease-in-out;
 }
 blockquote {
-border-left: 5px solid #ff4800;
+border-left: 5px solid #00aac0;
 }
 
 
