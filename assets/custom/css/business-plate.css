@@ -57,7 +57,7 @@ background-color: rgba(255, 255, 255, 0.95);
 .phone-mail li span {
     color:#7c8082;
     font-size:11px;
-    font-family: 'Roboto', 'Helvetica',sans-serif;
+    font-family: 'Kanit', 'Helvetica',sans-serif;
 }
 
 .loginbar {
@@ -84,7 +84,7 @@ background-color: rgba(255, 255, 255, 0.95);
 .loginbar li a:hover {
 	color:#7c8082;
 	font-size:11px;
-    font-family: 'Roboto', 'Helvetica',sans-serif;
+    font-family: 'Kanit', 'Helvetica',sans-serif;
 }
 
 .loginbar li.devider { 
