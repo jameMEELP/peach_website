@@ -17,7 +17,7 @@
 	height: 100%;
 	top: 0px;
 	left: 0px;
-	font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif ,Helvetica;
+	font-family: 'BebasNeueRegular', 'Arial Narrow',Helvetica, Arial, sans-serif;
 	text-align: left;
 }
 .da-slide-current{
@@ -48,7 +48,7 @@
 	opacity: 1;
 }
 .da-slide h2{
-    font-family: 'Roboto', Arial, sans-serif, Helvetica;
+    font-family: 'Roboto', Helvetica,Arial, sans-serif;
 	color: #222;
 	line-height:50px;
 	top: 80px;
