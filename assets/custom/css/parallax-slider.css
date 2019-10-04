@@ -85,6 +85,8 @@ font-style: normal;
 -webkit-border-radius: 0;
 -moz-border-radius: 0;
 border-radius: 0;
+font-size: 22px;
+line-height: 1.6em;
 }
 .da-slide .da-img{
 	text-align: center;
